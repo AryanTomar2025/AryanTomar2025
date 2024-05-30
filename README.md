@@ -6,12 +6,11 @@
 <p align="left"> <a href="https://twitter.com/aryantomar100" target="blank"><img src="https://img.shields.io/twitter/follow/aryantomar100?logo=twitter&style=for-the-badge" alt="aryantomar100" /></a> </p>
 
 - 🌱 I’m currently learning **Backend Development**
-
 - 💬 Ask me about **MERN Stack and DSA**
-
 - 📫 How to reach me **aryantomarcs@gmail.com**
-
 - ⚡ Fun fact **I think I am funny😅😅**
+- 🧠 Familiar with **SpringBoot,Redis,Docker,Kubernetes**
+- 👯 I’m looking to collaborate on WebDevelopment projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,5 +31,3 @@
 
 <br><p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=aryantomar2025&show_icons=true&locale=en&layout=compact" alt="aryantomar2025" /></p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryantomar2025&" alt="aryantomar2025" /></p>
