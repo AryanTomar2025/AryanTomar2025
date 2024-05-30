@@ -1,6 +1,6 @@
 <h1 align="center">Hello  <img width="25" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif">, I'm Aryan Tomar</h1>
 <h3 align="center">A passionate MERN Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/deepakbhamla/acd63578b13556b01c3fa9a663e643f5/raw/7fdb456c84df6d70294e673ecbde0420a5c366f8/hello.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryantomar2025&label=Profile%20views&color=0e75b6&style=flat" alt="aryantomar2025" /> </p>
 
 <p align="left"> <a href="https://twitter.com/aryantomar100" target="blank"><img src="https://img.shields.io/twitter/follow/aryantomar100?logo=twitter&style=for-the-badge" alt="aryantomar100" /></a> </p>
